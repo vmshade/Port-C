@@ -1,5 +1,5 @@
 # Port-C
-## A Simple and Compact USB-C to JST-SH daughterboard
+A Simple and Compact USB-C to JST-SH daughterboard
 Features:
 - USB-C (USB 2.0 only)
 - Proper CC configuration (5.1kΩ pull-down resistors for device mode)
