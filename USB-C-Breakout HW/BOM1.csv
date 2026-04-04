@@ -1,8 +1,0 @@
-Reference,Qty,Value,Price,Links To Parts
-"H1,H2,H3,H4",4,MountingHole_Pad,N/A,N/A
-J1,1,USB_C_Receptacle_USB2.0_14P, £0.14 ,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948
-J2,1,JST 4 pin PH 2.00mm, £0.04 ,https://jlcpcb.com/partdetail/JST-S4B_PH_K_S_LF_SN/C157926
-"R1,R2",2,5.1K, £0.01 ,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905
-"R3,R4",2,27, £0.01 ,https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100
-PCB,1,N/A, £7.27 ,N/A
-TOTAL,,, £7.47 ,
