@@ -1,5 +1,5 @@
-## Port-C
-# A Compact and USB-C to JST-SH daughterboard
+# Port-C
+## A Compact and USB-C to JST-SH daughterboard
 <img width="1575" height="1066" alt="image" src="https://github.com/user-attachments/assets/4f8fc520-6cee-4990-b9af-cd42979eac4e" />
 
 <img width="1709" height="1105" alt="image" src="https://github.com/user-attachments/assets/13a24ce1-72c4-45b7-8e47-e269b2c48eb7" />
