@@ -1,10 +1,12 @@
 # Port-C
 ## A Simple and Compact USB-C to JST-SH daughterboard
 Features:
-- ESD Protection for the data lines
-- 5.1k ohm resistors for the cc lines 
-- 27 ohm resistors on the data lines
-- JST-SH socket (No soldering required)
+- USB-C (USB 2.0 only)
+- Proper CC configuration (5.1kΩ pull-down resistors for device mode)
+- ESD protection on D+ / D− 
+- 27Ω series resistors on data lines (signal integrity)
+- JST-SH connector (no direct soldering to the PCB)
+- Compact and clean layout
 
 ## Schematic
 
