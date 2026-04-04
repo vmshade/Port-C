@@ -2466,6 +2466,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 92.71) (xy 133.35 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a92b42c0-c214-4165-9da2-926b9590d2bc")
+	)
+	(wire
+		(pts
 			(xy 41.91 86.36) (xy 41.91 85.09)
 		)
 		(stroke
@@ -2523,6 +2533,16 @@
 			(type default)
 		)
 		(uuid "c770f74e-480b-4664-9b2d-78ebfba36daf")
+	)
+	(wire
+		(pts
+			(xy 152.4 92.71) (xy 152.4 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b465a7-5f49-40d9-af89-da6c95823442")
 	)
 	(wire
 		(pts
@@ -3522,6 +3542,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 152.4 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78a42a44-d8d3-4b59-8ba4-fec45870f71d")
+		(property "Reference" "#PWR010"
+			(at 152.4 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 96.774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 152.4 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08b653b1-ba11-49e4-8ba4-eb78b43ba0e4")
+		)
+		(instances
+			(project "Port-C"
+				(path "/c7a9a69f-2b79-402a-83c3-653f12694c70"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 41.91 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3799,7 +3884,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 133.35 92.964 0)
+			(at 122.428 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3840,6 +3925,71 @@
 			(project ""
 				(path "/c7a9a69f-2b79-402a-83c3-653f12694c70"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daf9d80c-bad8-440a-a29a-ce4208669381")
+		(property "Reference" "#PWR09"
+			(at 133.35 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 96.774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc5733f2-d2a9-4aba-9f11-129fe7e20333")
+		)
+		(instances
+			(project "Port-C"
+				(path "/c7a9a69f-2b79-402a-83c3-653f12694c70"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -3982,12 +4132,13 @@
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 152.4 88.9 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "fcdbb095-321d-412d-a774-216e241b558d")
+		(uuid "fde02ffb-f34d-484e-8b02-4875494af621")
 		(property "Reference" "H2"
 			(at 152.4 84.582 0)
 			(effects
@@ -3997,7 +4148,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 152.4 92.964 0)
+			(at 163.322 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4032,7 +4183,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "34a33765-4d3d-49cc-a7b3-735edd7cdc0d")
+			(uuid "c058de56-d8ad-4357-9ded-3087385020f1")
 		)
 		(instances
 			(project "Port-C"
