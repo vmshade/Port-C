@@ -1,5 +1,5 @@
 # Port-C
-## A Compact and USB-C to JST-SH daughterboard
+## A Simple and Compact USB-C to JST-SH daughterboard
 Features:
 - ESD Protection for the data lines
 - 5.1k ohm resistors for the cc lines 
