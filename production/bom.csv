@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+F1,0603,1,750mA,
+J1,USB_C_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,
+J2,Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical,1,Conn_01x04_Socket,
+"R1, R2",0402,2,5.1k,

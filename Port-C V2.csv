@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"F1","1","750mA","","","","Fuse:Fuse_0603_1608Metric",""
+"J1","1","USB_C_Receptacle_USB2.0_14P","","","","ScottoKeebs_Components:USB_C_HRO_TYPE-C-31-M-12","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+"J2","1","Conn_01x04_Socket","","","","Connector_Molex:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical",""
+"R1,R2","2","5.1k","","","","Resistor_SMD:R_0402_1005Metric",""
